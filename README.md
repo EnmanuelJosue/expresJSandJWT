@@ -38,5 +38,5 @@ Los endpoints y la data del body requerido en cada uno se encuentra en la collec
 
 | /collection/proyectoExpressPostgres.json | README |
 | ------ | ------ |
-| Portafolio | [https://enmanueljosue.github.io/Portafolio/perfil.html][PlDb] |
+| Portafolio | [https://enmanueljosue.github.io/Portafolio/perfil.html]|
 
